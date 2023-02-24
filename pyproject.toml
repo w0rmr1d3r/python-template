@@ -26,6 +26,7 @@ dependencies = []
 # Always try to be compatible with these versions and above
 # todo - search for latest versions and update project and template accordingly
 dev = [
+    "autoflake>=2.0.0",
     "black>=23.0.0",
     "coverage>=6.3.2",
     "docformatter>=1.5.1",

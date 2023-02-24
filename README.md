@@ -2,7 +2,7 @@
 
 python-template
 
-[![PyPI](https://img.shields.io/pypi/v/python-template)](https://pypi.org/project/python-template/)
+<!-- todo uncomment this [![PyPI](https://img.shields.io/pypi/v/python-template)](https://pypi.org/project/python-template/)-->
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/w0rmr1d3r/python-template)](https://github.com/w0rmr1d3r/python-template/releases)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-template)
 [![PyPi downloads](https://img.shields.io/pypi/dm/python-template?label=PyPi%20downloads)](https://pypistats.org/packages/python-template)

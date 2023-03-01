@@ -10,10 +10,11 @@ python-template
 # Steps
 
 - [ ] Review settings of the repo
+- [ ] Select a License and update pyproject.toml file accordingly
 - [ ] Add branch protection
 - [ ] Replace `python-template` everywhere with the name of the new project
+- [ ] Replace the folder `python-template` with the name of the new project
 - [ ] Solve `todo`s around the files
-- [ ] Select a License and update pyproject.toml file accordingly
 - [ ] Create virtualenv, install `pip-tools`, freeze dependencies and install dependencies
 - [ ] Create token in PyPi and add to GitHub secrets
 - [ ] Create issue template and review community standards
@@ -21,6 +22,7 @@ python-template
 - [ ] Add the project to the profile
 - [ ] Add some classifiers and keywords
 - [ ] Review security setup (security tab)
+- [ ] Add the `bump` label with the description: `Bumping dependencies`
 - [ ] Remove this steps and do the first release (0.0.1) and update the website of the project!
 
 ## Installation

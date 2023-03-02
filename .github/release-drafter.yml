@@ -4,7 +4,7 @@ categories:
 # todo - add sections for PRs, no major minor patch
   - title: 'Bumps'
     labels:
-      - 'bump'
+      - 'dependencies'
 version-resolver:
   major:
     labels:

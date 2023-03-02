@@ -17,12 +17,10 @@ python-template
 - [ ] Solve `todo`s around the files
 - [ ] Create virtualenv, install `pip-tools`, freeze dependencies and install dependencies
 - [ ] Create token in PyPi and add to GitHub secrets
-- [ ] Create issue template and review community standards
-- [ ] Add labels/badges that apply in the readme (version, release, downloads, python supported, ci, tools, etc.)
-- [ ] Add the project to the profile
+- [ ] Add badges that apply in the readme (version, release, downloads, python supported, ci, tools, etc.)
 - [ ] Add some classifiers and keywords
 - [ ] Review security setup (security tab)
-- [ ] Add the `bump` label with the description: `Bumping dependencies`
+- [ ] Create the `major`, `minor` and `patch` labels in de repository.
 - [ ] Remove this steps and do the first release (0.0.1) and update the website of the project!
 
 ## Installation

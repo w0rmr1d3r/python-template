@@ -19,7 +19,7 @@ python-template
 - [ ] Create token in PyPi and add to GitHub secrets
 - [ ] Add badges that apply in the readme (version, release, downloads, python supported, ci, tools, etc.)
 - [ ] Add some classifiers and keywords
-- [ ] Review security setup (security tab)
+- [ ] Review security setup (security tab). All checks should be in green.
 - [ ] Create the `major`, `minor` and `patch` labels in de repository.
 - [ ] Remove this steps and do the first release (0.0.1) and update the website of the project!
 

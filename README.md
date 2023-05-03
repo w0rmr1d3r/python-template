@@ -20,6 +20,7 @@ python-template
 - [ ] Add badges that apply in the readme (version, release, downloads, python supported, ci, tools, etc.)
 - [ ] Add some classifiers and keywords
 - [ ] Review security setup (security tab). All checks should be in green.
+- [ ] Check the repo has sponsors enabled.
 - [ ] Create the `major`, `minor` and `patch` labels in de repository.
 - [ ] Remove this steps and do the first release (0.0.1) and update the website of the project!
 
@@ -43,6 +44,10 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Sponsors
+
+Become a sponsor [here](https://github.com/sponsors/w0rmr1d3r)
 
 ## License
 

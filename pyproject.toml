@@ -51,6 +51,7 @@ dev = [
 "Bug Tracker" = "https://github.com/w0rmr1d3r/python-template/issues"
 "Documentation" = "https://github.com/w0rmr1d3r/python-template"
 "Changelog" = "https://github.com/w0rmr1d3r/python-template/releases"
+"Funding" = "https://github.com/sponsors/w0rmr1d3r"
 
 [tool.setuptools]
 packages = ["python-template"]
